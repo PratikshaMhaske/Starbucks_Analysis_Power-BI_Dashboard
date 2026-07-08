@@ -1,4 +1,4 @@
-# ☕ Starbucks Beverage Analytics Dashboard | Power BI
+# Starbucks Beverage Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
 
@@ -113,4 +113,3 @@ Starbucks-PowerBI-Dashboard/
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
